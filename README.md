@@ -1,2 +1,2 @@
 # testvik1
-testvik1 r1 in develop
+testvik1 r2 in develop
